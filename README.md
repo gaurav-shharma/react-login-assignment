@@ -4,6 +4,10 @@
 
 This project is a mini frontend app built based on a provided design. The goal was to create the frontend part without any backend REST API logic. This app is built using React, TypeScript, and TailwindCSS.
 
+## **Live Preview**
+
+[Live](https://react-login-assignment.netlify.app/)
+
 ## **Getting Started**
 
 ### **Prerequisites**

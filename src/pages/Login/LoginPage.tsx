@@ -14,7 +14,7 @@ const LoginPage: React.FC = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
-      <img src={icon_logo} className="mb-10" />
+      <img src={icon_logo} className="mb-10" alt="logo" />
       {showLogin ? (
         <LoginCard
           switchToSignup={() => setShowLogin(false)}

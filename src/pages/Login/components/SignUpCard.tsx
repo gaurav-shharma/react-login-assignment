@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FiEye, FiEyeOff, FiArrowRight } from "react-icons/fi";
+import { FiArrowRight } from "react-icons/fi";
 
 interface SignUpCardProps {
   switchToLogin: () => void;
