@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Modal from "../../../common/Modal";
 import LoginCard from "../../Login/components/LoginCard";
 import SignUpCard from "../../Login/components/SignUpCard";
+import Modal from "../../../common-components/Modal";
 
 interface LoginModalProps {
   isOpen: boolean;
